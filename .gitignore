@@ -1,3 +1,6 @@
 *.class
 *.ctxt
 desktop.ini
+/.classpath
+/.project
+/package.bluej
